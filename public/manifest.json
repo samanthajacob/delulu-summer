@@ -1,0 +1,16 @@
+{
+  "short_name": "delulu summer",
+  "name": "delulu summer",
+  "description": "A summer calendar for st. pete, fl.",
+  "icons": [
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
+    { "src": "/logo192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/logo512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#f0c4b8",
+  "background_color": "#fdfaf5"
+}
